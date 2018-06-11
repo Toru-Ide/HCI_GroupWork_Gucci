@@ -1,3 +1,5 @@
+//add ToruIde
+
 import processing.video.*;
 import jp.nyatla.nyar4psg.*;
 
@@ -35,3 +37,4 @@ void draw()
     nya.endTransform();
   }
 }
+
